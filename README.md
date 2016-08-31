@@ -14,7 +14,10 @@ Library standar untuk melakukan input output
 
 Untuk melakukan Compile pada umumnya seperti Java 
 >go build namafile.go
+
 >./namafile
 
 
 
+
+Check disini untuk lebih lengkapnya [Go Pages Wiki](https://golang.org/doc/articles/wiki/).

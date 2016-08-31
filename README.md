@@ -1,11 +1,14 @@
 # Go-Web-Application-1-Data-Structur-
 
-#$ mkdir gowiki
-#$ cd gowiki
+##$ mkdir gowiki
+##$ cd gowiki
 
-package main
+Library standar untuk melakukan input output
 
-import (
-	"fmt"
-	"io/ioutil"
-)
+>package main
+>import (
+>		"fmt"
+>		"io/ioutil"
+>)
+
+

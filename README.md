@@ -12,3 +12,7 @@ Library standar untuk melakukan input output
 >)
 
 
+Untuk melakukan Compile pada umumnya seperti Java 
+>go build namafile.go
+
+

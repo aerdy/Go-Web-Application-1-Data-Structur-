@@ -1,4 +1,4 @@
-# Go-Web-Application-1-Data-Structur-
+# Go Web Application 1 (Data Structur)
 
 ##$ mkdir gowiki
 ##$ cd gowiki
